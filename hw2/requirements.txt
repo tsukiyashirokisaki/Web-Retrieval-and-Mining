@@ -1,0 +1,2 @@
+language: python 3.7.4
+packages: torch,numpy,pandas,random
